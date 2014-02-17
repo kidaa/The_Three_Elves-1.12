@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: The_Three_Elves-1.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-06-03 23:45+0200\n"
+"POT-Creation-Date: 2014-02-17 02:47+0100\n"
 "PO-Revision-Date: 2013-03-28 16:49-0400\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -395,14 +395,14 @@ msgstr ""
 #: The_Three_Elves/scenarios/1_Into_the_swamp.cfg:383
 msgid ""
 "You are mistaken, good man. There is no gold for you. The treasure is at "
-"good hands now - ours. Do you want is? Come to take it!"
+"good hands now - ours. Do you want it? Come to take it!"
 msgstr ""
 
 #. [message]: id=Teddy
 #: The_Three_Elves/scenarios/1_Into_the_swamp.cfg:387
 msgid ""
 "Aaagrh! You will regret that! The waters of the river will lower soon. Then "
-"our onited army will get that treasure... And your inhuman skulls as well!"
+"our united army will get that treasure... And your inhuman skulls as well!"
 msgstr ""
 
 #. [message]: id=Lahias
