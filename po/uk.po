@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: The_Three_Elves-1.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-17 02:47+0100\n"
+"POT-Creation-Date: 2014-03-03 21:32+0100\n"
 "PO-Revision-Date: 2013-03-28 16:49-0400\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -2706,7 +2706,7 @@ msgid "Elvish Hunter"
 msgstr ""
 
 #. [unit_type]: id=Elvish Hunter, race=elf
-#: The_Three_Elves/units/Elvish_Hunter.cfg:32
+#: The_Three_Elves/units/Elvish_Hunter.cfg:31
 msgid ""
 "The elvish militia is mainly composed of civilians who have dropped their "
 "bows in favour of entangling unwary oponents using their bolas, and then "
@@ -2715,14 +2715,14 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=impact
-#: The_Three_Elves/units/Elvish_Hunter.cfg:50
+#: The_Three_Elves/units/Elvish_Hunter.cfg:49
 #: The_Three_Elves/units/Elvish_Prowler.cfg:51
 #: The_Three_Elves/units/Elvish_Trapper.cfg:50
 msgid "bolas"
 msgstr ""
 
 #. [female]
-#: The_Three_Elves/units/Elvish_Hunter.cfg:159
+#: The_Three_Elves/units/Elvish_Hunter.cfg:158
 msgid "female^Elvish Hunter"
 msgstr ""
 
